@@ -1,0 +1,16 @@
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/impl/User.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/configuration/SchedulerConfig.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/model/State.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/App.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/WeatherService.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/impl/WeatherServiceImpl.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/impl/Role.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/TestCache.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/impl/WeatherSync.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/service/impl/RolePermission.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/controller/Controller.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/model/Country.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/model/Weather.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/model/Coordinates.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/model/City.java
+/home/linuxadmin/Documents/workspace/weather-app/src/main/java/com/example/learning/weather_app/task/ScheduledTasks.java
